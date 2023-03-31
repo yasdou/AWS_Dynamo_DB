@@ -1,0 +1,65 @@
+
+{
+    "my-table-NFDB": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "N": "1"
+                    },
+                    "title": {
+                        "S": "Example Title"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "N": "2"
+                    },
+                    "title": {
+                        "S": "Example2 Title"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "N": "3"
+                    },
+                    "title": {
+                        "S": "Example3 Title"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "N": "4"
+                    },
+                    "title": {
+                        "S": "Example4 Title"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "N": "5"
+                    },
+                    "title": {
+                        "S": "Example5 Title"
+                    }
+                }
+            }
+        }
+    ]
+}
